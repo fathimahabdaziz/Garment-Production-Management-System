@@ -28,20 +28,34 @@ The system is split into screens for each role:
 
 ## Screenshots
 
-## Screenshots
-
-![Tailors grouped by garment type](screenshots/supervisor_tailors.png)
-*Supervisor: tailors grouped by the type of garment they sew*
-
-![Job sheet and allocation](screenshots/supervisor_newjob.png)
-![Job sheet and allocation](screenshots/supervisor_newjob2.png)
-*Supervisor: creating a job sheet and allocating pieces to tailors*
-
-![Receiving](screenshots/coordinator_receiving.png)
-*Coordinator: recording garments received back from tailors*
-
-![Cost calculator](screenshots/cost_calculator.png)
-*Cost calculator*
+<table>
+  <tr>
+    <td width="50%">
+      <img src="screenshots/supervisor_tailors.png"><br>
+      <sub><b>Supervisor:</b> tailors grouped by the type of garment they sew</sub>
+    </td>
+    <td width="50%">
+      <img src="screenshots/supervisor_newjob.png"><br>
+      <sub><b>Supervisor:</b> entering a new job sheet</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="screenshots/supervisor_newjob2.png"><br>
+      <sub><b>Supervisor:</b> pieces allocated across tailors</sub>
+    </td>
+    <td width="50%">
+      <img src="screenshots/coordinator_receiving.png"><br>
+      <sub><b>Coordinator:</b> recording garments received back from tailors</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="screenshots/cost_calculator.png" width="60%"><br>
+      <sub><b>Cost calculator</b></sub>
+    </td>
+  </tr>
+</table>
 
 ## Design decisions
 
