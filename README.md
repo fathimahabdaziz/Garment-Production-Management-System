@@ -34,7 +34,7 @@ The system is split into screens for each role:
 *Supervisor: tailors grouped by the type of garment they sew*
 
 ![Job sheet and allocation](screenshots/supervisor_newjob.png)
-(screenshots/supervisor_newjob2.png)
+![Job sheet and allocation](screenshots/supervisor_newjob2.png)
 *Supervisor: creating a job sheet and allocating pieces to tailors*
 
 ![Receiving](screenshots/coordinator_receiving.png)
