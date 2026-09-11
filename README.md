@@ -28,13 +28,19 @@ The system is split into screens for each role:
 
 ## Screenshots
 
-![Job sheet and allocation](screenshots/supervisor-jobsheet.png)
+## Screenshots
+
+![Tailors grouped by garment type](screenshots/supervisor_tailors.png)
+*Supervisor: tailors grouped by the type of garment they sew*
+
+![Job sheet and allocation](screenshots/supervisor_newjob.png)
+(screenshots/supervisor_newjob2.png)
 *Supervisor: creating a job sheet and allocating pieces to tailors*
 
-![Receiving](screenshots/coordinator-receiving.png)
-*Coordinator: recording garments received*
+![Receiving](screenshots/coordinator_receiving.png)
+*Coordinator: recording garments received back from tailors*
 
-![Cost calculator](screenshots/cost-calculator.png)
+![Cost calculator](screenshots/cost_calculator.png)
 *Cost calculator*
 
 ## Design decisions
