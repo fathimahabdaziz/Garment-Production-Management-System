@@ -35,14 +35,14 @@ The system is split into screens for each role:
       <sub><b>Supervisor:</b> tailors grouped by the type of garment they sew</sub>
     </td>
     <td width="50%">
-      <img src="screenshots/supervisor_newjob.png"><br>
+      <img src="screenshots/supervisoe_newjob.png"><br>
       <sub><b>Supervisor:</b> entering a new job sheet</sub>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <img src="screenshots/supervisor_newjob2.png"><br>
-      <sub><b>Supervisor:</b> pieces allocated across tailors</sub>
+      <sub><b>Supervisor:</b> list of recent jobs</sub>
     </td>
     <td width="50%">
       <img src="screenshots/coordinator_receiving.png"><br>
